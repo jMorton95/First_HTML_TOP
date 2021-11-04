@@ -1,3 +1,5 @@
+/* These styles apply to the homepage of the Website*/
+
 .homepage {
     text-align: center;
     font-family: Helvetica, "Times New Roman", sans-serif;
@@ -24,4 +26,24 @@
     font-family: Arial, Helvetica, "Times New Roman", sans-serif;
     color:red;
     
+}
+
+/* These styles apply to the recipe pages */
+.whole-page{
+    text-align: center;
+}
+
+.heading {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    color: red;
+}
+
+.ingredients {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    color: blue;
+}
+
+.recipe {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    color: green;
 }
