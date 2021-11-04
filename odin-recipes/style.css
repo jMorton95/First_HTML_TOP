@@ -4,3 +4,24 @@
     color: rgb(197, 13, 13);
     
 }
+
+.image-link {
+    height: 200px;
+    width: 250px;
+}
+
+#thai{
+    font-family: monospace, Helvetica, "Times New Roman", sans-serif;
+    color: rgb(14, 150, 14);
+}
+
+#coffee{
+    font-family: cursive, Helvetica, "Times New Roman", sans-serif;
+    color: rgb(87, 19, 19, 0.575);
+}
+
+#burger{
+    font-family: Arial, Helvetica, "Times New Roman", sans-serif;
+    color:red;
+    
+}
