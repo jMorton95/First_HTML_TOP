@@ -1,0 +1,23 @@
+.flex-container {
+    display: flex;
+    padding: 10px;
+    background: blue;
+    gap: 8px;
+    border: 4px solid brown;
+}
+
+/* this selector selects all the divs inside of the .flexbox-container */
+
+.item {
+    background: peachpuff;
+    border: 4px solid brown;
+    height: 100px;
+    flex : 1;
+    display: flex;
+}
+
+.item-nested {
+    flex: 1;
+    background: red;
+    border: 2px solid white;
+}
